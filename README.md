@@ -1,4 +1,5 @@
 # Hi there :wave:
+<<<<<<< HEAD
 ## I'm Oleksandr Lavryk and great Web-Developer :fire: . I am from Ukraine :ukraine: . I'm 14 y. o. :kissing_closed_eyes: . I love Web Development :computer: . I started my 'coding' way in Creator it Acadamy :mortar_board: . Now I have a lot of useful skills :clipboard: . 
 
 <br>
@@ -40,3 +41,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlekBliter&theme=discord_old_blurple)]
 
 <br>
+=======
+## I'm Oleksandr Lavryk and great Web-Developer
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OlekBliter&theme=discord_old_blurple)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlekBliter&repo=Portfolio&theme=discord_old_blurple)](https://github.com/OlekBliter/Portfolio)
+>>>>>>> 6b891a786f554bf873207b54311d667e6d78a056

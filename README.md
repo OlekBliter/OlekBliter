@@ -19,9 +19,3 @@ Currently, I am deeply focused on C++ and Object-Oriented Programming (OOP) thro
 * **Languages:** C++, JavaScript, Java, HTML, CSS, Python (Basic)
 * **Core Skills:** Object-Oriented Programming (OOP), Unit Testing
 * **Tools & Platforms:** Git, GitHub
-
-<br>
-
-### 📈 My Portfolio
-
-[💻 Check out my Portfolio Website](https://olekbliter.github.io/Portfolio/)
